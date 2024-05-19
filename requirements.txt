@@ -1,0 +1,7 @@
+jupyter-book
+sphinx-proof
+plotly
+numpy
+matplotlib
+pandas
+scipy
