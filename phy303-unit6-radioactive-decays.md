@@ -504,7 +504,7 @@ where $k$ is equal to coulombs constant $k = 1/(4πε_0) = 8.987552 \times 10^9 
 \end{equation}
 ```
 
-So the barrier width L and Gammow factor is:
+So the barrier width L and Gamow factor is:
 
 ```{math}
 :label: barrierwidth_ex1

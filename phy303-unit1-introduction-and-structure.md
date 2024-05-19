@@ -102,7 +102,7 @@ Nuclei can also be grouped according to their $Z$, $N$, and $A$ values:
 - Nuclides with the **same $A$** are **Isobars**
 - Nuclides with the **same $N$** are **Isotones**
 
-The known elements cover essentially everything from Hydrogen, H-1 to Oganesson-294. `{numref}`chart-of-nuclideslarge` is a chart showing different known nuclei. Around 3000 different nuclei have so far been confirmed, each specified by the proton number $(Z)$ and neutron number $(N)$. This nuclide plot is one of the most important plots in nuclear physics.
+The known elements cover essentially everything from Hydrogen, H-1 to Oganesson-294. {numref}`chart-of-nuclideslarge` is a chart showing different known nuclei. Around 3000 different nuclei have so far been confirmed, each specified by the proton number $(Z)$ and neutron number $(N)$. This nuclide plot is one of the most important plots in nuclear physics.
 
 :::{figure-md} chart-of-nuclideslarge
 <img src='image-136.png' width="100%" alt="IAEA Chart of Nuclides">
@@ -137,7 +137,7 @@ $\Delta Z=-2, \Delta N=-2$
 5. **Positron Emission** - A proton emits a positron and turns into a neutron , 
    $\Delta Z=-1, \Delta N=+1$
 6. **Electron Capture** - A proton captures an orbiting electron, turning into a neutron and emitting a neutrino. 
-   $\Delta Z=-1, \Delta N=0$
+   $\Delta Z=-1, \Delta N=1$
 
 
 The possible steps for these on our *chess board of decays* are shown in {numref}`decay-step-all`.
@@ -255,7 +255,7 @@ Given that Nuclei have mass and charge then there is obviously going to be a den
 \end{equation}
 ```
 
-where $m_{n}$ is mass of neutron. For charge a similar approach can be taken but we have to include the fact that neutrons are negative, and it is only every proton that contributes a single charge $e$ to the total charge $Q$ of the nucleus.
+where $m_{n}$ is mass of neutron. For charge a similar approach can be taken but we have to include the fact that neutrons are neutral, and it is only every proton that contributes a single charge $e$ to the total charge $Q$ of the nucleus.
 
 ```{math}
 :label: chargedensity
@@ -426,7 +426,7 @@ $
 $
 ```
 
-{numref}`rutherfordform predicts a form the cross section vs scattering as shown opposite.
+{numref}`rutherfordform` predicts a form the cross section vs scattering as shown opposite.
 
 :::{figure-md} rutherfordform
 <img src='figures/rutherford_form.png' width="70%" alt="Rutherford Form">

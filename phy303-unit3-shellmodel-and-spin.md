@@ -135,6 +135,10 @@ These isotopes have Z=20 and N = 20 and 28, all three being magic numbers.
 ![Alt text](image-95.png)
 
 
+```{error}
+^ 40-C/48-C should be 40-Ca/48-Ca!
+```
+
 ##### Decay Chains End with Magic Number Nuclei
 
 Finally, there are several decay chain sequences in nature, particularly that starting U-235. Stable isotopes come at the end of all these principle radioactive series, and all end points have a magic number of protons or neutrons.
@@ -280,13 +284,13 @@ Remember a good quantum number is a quantity that remains constant and is conser
 ```
 
 
-We have seen that $m_{z}$ is always integer and $m_{s}$ is always half-integer +1/2 or -1/2. The same is true for the $l$ and $s$ quantum numbers. When we vector couple $l$ and $s$ together to make $j$ we simply add the possibilities, so this means $j$ is also always going to be half-integer. Since the spin can only be aligned parallel or anti-parallel to the the angular momentum we expect allowed values of $j$ to only be $j\pm\frac{1}{2}$. For example for $l=2$ states the allowed values of $j$ are $j=\frac{5}{2}$ and $j=\frac{3}{2}$.
+We have seen that $m_{z}$ is always integer and $m_{s}$ is always half-integer +1/2 or -1/2. The same is true for the $l$ and $s$ quantum numbers. When we vector couple $l$ and $s$ together to make $j$ we simply add the possibilities, so this means $j$ is also always going to be half-integer. Since the spin can only be aligned parallel or anti-parallel to the the angular momentum we expect allowed values of $j$ to only be $l\pm\frac{1}{2}$. For example for $l=2$ states the allowed values of $j$ are $j=\frac{5}{2}$ and $j=\frac{3}{2}$.
 
 A summary of what we expect for each number is below.
 
 - $l$ - from orbital angular momentum number *[Integer]*
-- $s$ - from orbital angular momentum number *[Half-Integer]*
-- $j$ - from orbital angular momentum number and spin *[Half-Integer]*
+- $s$ - from spin angular momentum number *[Half-Integer]*
+- $j$ - from orbital angular momentum number **and** spin *[Half-Integer]*
 
 
 #### Simple Potential Example
@@ -301,7 +305,7 @@ Diagram shell filling in a simple spherical model for the lowest energy shell.
 :::
 
 
-Now as we increase the possible $l$ state it is the $j$ value for a specific shell that is going to tell us how to fill up the Shell Energy Levels.  For instance, in the new example shown below we choose level $l=1$ as shown in {numref}`shellfillingb` we find we are allowed total $j$ values = $\pm\frac{1}{2}$ and $\pm\frac{3}{2}$. This is because in our new shell we have the two similar $m_{z}=0$ cases as before (states 5 and 6), but also four new ones, corresponding to the case where $m_{z}=1$.
+Now as we increase the possible $l$ state it is the $j$ value for a specific shell that is going to tell us how to fill up the Shell Energy Levels.  For instance, in the new example shown below we choose level $l=1$ as shown in {numref}`shellfillingb` we find we are allowed total $j$ values = $\pm\frac{1}{2}$ and $\pm\frac{3}{2}$. This is because in our new shell we have the two similar $m_{z}=0$ cases as before (states 1 and 2), but also four new ones, corresponding to the case where $m_{z}=1$.
 
 
 :::{figure-md} shellfillingb

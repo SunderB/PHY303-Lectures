@@ -65,7 +65,7 @@ $$
 
 where $R_{av} = r_{0}A^{1/3}$. In our simple case $\beta>0$ corresponds to a prolate nucleus as we've stretched out the top, and $\beta< 0$ corresponds to oblate as we've expanded the sides. $\Delta R$ here represents the difference between the semi-major and semi-minor axes (long and short sides) of the nucleus itself when it is deformed. A typical value for $\Delta R$ is around 0.3 fm.
 
-Note here we are talking of a permanent deformation in shape. Thanks to the charge distribution we thus expert to get a finite Electric Quadrupole Moment. In addition now however we also see possible rotation states as along certain axes (perpendicular to the axis we squashed our nucleus) the shape is not rotationally symmetric. Based on the nuclear shapes shown above you can imagine being able to rotate the nucleus rotating along two axes, either around the page, or out of the page.
+Note here we are talking of a permanent deformation in shape. Thanks to the charge distribution we thus expect to get a finite Electric Quadrupole Moment. In addition now however we also see possible rotation states as along certain axes (perpendicular to the axis we squashed our nucleus) the shape is not rotationally symmetric. Based on the nuclear shapes shown above you can imagine being able to rotate the nucleus rotating along two axes, either around the page, or out of the page.
 
 It turns out the **intrinsic** Electric Quadrupole Moment of a deformed nucleus is directly related to the deformation of the nucleus itself. It  is given by:
 

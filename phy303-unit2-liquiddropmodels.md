@@ -24,7 +24,7 @@ To reiterate, a form factor, $F$, provides additional information on how the dis
 ```{math}
 :label: formfactor
 \begin{equation}
-F(q) = \int_{-\infty}^{\infty} e^{i~{\bf q} \cdot {\bf r} / \hbar} ~\rho({\bf r})~d^{3} {\bf r}
+F(\mathbf{q}) = \int_{-\infty}^{\infty} e^{i~{\mathbf{q}} \cdot {\bf r} / \hbar} ~\rho({\mathbf{r}})~d^{3} {\bf r}
 \end{equation}
 ```
 
@@ -395,7 +395,7 @@ With all our terms added together we finally have a
 ```{math}
 :label: simpledropcombined_totalequation
 \begin{align}
-B(A,Z) = a_{v} A - a_{s}A^{2/3} - a_{c} Z(Z-1) A^{-1/3} - a_{a}(A-2Z)^{2}A^{-1} + \delta
+B(A,Z) = a_{v} A - a_{s}A^{2/3} - a_{c} Z(Z-1) A^{-1/3} - a_{a}(A-2Z)^{2}A^{-1} - \delta
 \end{align}
 ```
 
@@ -404,7 +404,7 @@ or in terms of B/A for the plots above
 ```{math}
 :label: simpledropcombined_totalequationperA
 \begin{align}
-B(A,Z)/A = a_{v} - a_{s}A^{-1/3} - a_{c} Z(Z-1) A^{-4/3} - a_{a}(A-2Z)^{2}A^{-2} + \delta A^{-1}
+B(A,Z)/A = a_{v} - a_{s}A^{-1/3} - a_{c} Z(Z-1) A^{-4/3} - a_{a}(A-2Z)^{2}A^{-2} - \delta A^{-1}
 \end{align}
 ```
 
