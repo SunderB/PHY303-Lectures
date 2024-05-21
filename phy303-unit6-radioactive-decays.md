@@ -103,7 +103,7 @@ Note we have to be careful in Beta Decay to consider the mass of everything incl
 ```{math}
 :label: betamqvalue
 \begin{equation}
-Q_{\beta^{-}} = [ M(A,Z) - M(A,Z-1) ]c^{2}
+Q_{\beta^{-}} = [ M(A,Z) - M(A,Z+1) ]c^{2}
 \end{equation}
 ```
 
